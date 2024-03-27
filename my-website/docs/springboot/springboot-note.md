@@ -37,8 +37,4 @@
 SPRING DATA JPA : un framework de la famille spring data : qui permet d'automatiser la creation de la couche d'accès au donnée
 Pour utiliser Sprind Data jpa, on ajoute @Repository sur la classe DAO, on transforme l'objet en entite
 Spring Data JPA contient un certain nombre de methode pour manipuler les données : findById, save findAll Pour beneficier de ces methodes, on doit
-<<<<<<< HEAD
-heriter de JpaRepository`<Entity, leTypeDeSonId >`.
-=======
 heriter de JpaRepository `<Entity, leTypeDeSonId >`
->>>>>>> ee4ee10 (added notes java-springboot)
